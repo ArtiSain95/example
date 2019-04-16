@@ -16,7 +16,7 @@ else:
 # Logical operators (and, or, not) - Used to combine conditional statements
 
 
-
+#new commits example
 
 # Membership Operators (not, not in) - Membership operators are used to test if a sequence is presented in an object
 
